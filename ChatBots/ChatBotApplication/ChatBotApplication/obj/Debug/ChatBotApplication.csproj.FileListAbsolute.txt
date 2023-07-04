@@ -1,0 +1,42 @@
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\Bot Application.dll.config
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\Bot Application.dll
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\Bot Application.pdb
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\Autofac.dll
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\Chronic.dll
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\Microsoft.Bot.Builder.dll
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\Microsoft.Bot.Connector.dll
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\Newtonsoft.Json.dll
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\System.Net.Http.Formatting.dll
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\System.Web.Http.dll
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\System.Web.Http.WebHost.dll
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\Autofac.xml
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\Microsoft.Bot.Builder.xml
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\Microsoft.Bot.Connector.xml
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\Newtonsoft.Json.xml
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\System.Net.Http.Formatting.xml
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\System.Web.Http.xml
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\System.Web.Http.WebHost.xml
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\obj\Debug\ChatBotApplication.csproj.AssemblyReference.cache
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\obj\Debug\ChatBotApplication.csproj.CoreCompileInputs.cache
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\obj\Debug\ChatBotApplication.csproj.CopyComplete
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\obj\Debug\Bot Application.dll
+C:\Users\jberlim\Documents\Visual Studio 2022\ChatBots\ChatBotApplication\ChatBotApplication\obj\Debug\Bot Application.pdb
